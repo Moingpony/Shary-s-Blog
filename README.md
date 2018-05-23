@@ -1,28 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-
-
-
-
-
-####################gyy##########################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Software Engineer. Blogging about life, tech and music.
 
 
 You can use the [editor on GitHub](https://github.com/Moingpony/Shary-s-Blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
